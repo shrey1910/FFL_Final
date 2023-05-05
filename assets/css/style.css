@@ -1684,6 +1684,11 @@ section {
   margin-right: 14px;
 }
 
+.img-footer{
+  max-width: 70%;
+  height: auto;
+}
+
 .blog .blog-comments .comment .comment-img img {
   width: 60px;
 }
